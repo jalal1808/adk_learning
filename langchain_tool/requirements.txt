@@ -1,0 +1,7 @@
+langchain-community
+wikipedia
+crewai
+crewai-tools
+dateparser
+pandas
+litellm

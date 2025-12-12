@@ -89,10 +89,3 @@ venv.bak/
 
 # PyCharm
 .idea/
-
-# My personal ADK folders
-agent_fst/
-Big_query_agent/
-function_tool_agent/
-langchain_tool/
-myenv/
